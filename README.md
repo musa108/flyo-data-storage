@@ -5,4 +5,6 @@ HTML
 CSS 
 # link 
 live url:https://musa108.github.io/flyo-data-storage/ 
-#only desktop version 
+# note 
+only desktop version 
+
